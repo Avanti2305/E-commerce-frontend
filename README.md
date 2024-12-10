@@ -28,8 +28,3 @@ Our e-commerce platform was built using the following technologies:
 - [x] MySQL
 - [x] AWS S3
 - [x] React Bootstrap
-- [x] Mapbox
-- [x] TinyMCE
-- [x] Formik
-
-Check out the backend repository [here](https://github.com/sourav0098/e-commerce-backend)
